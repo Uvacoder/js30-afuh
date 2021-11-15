@@ -100,4 +100,8 @@ var data = [{
   title: "Whack A Mole",
   url: "30 - Whack A Mole/index.html",
   img: "30 - Whack A Mole/image/30_port.jpg"
+}, {
+  title: "Birthday Card Greeting",
+  url: "31 - BirthdayCard/index.html",
+  img: "31 - BirthdayCard/image/bday-card.png"
 }];
